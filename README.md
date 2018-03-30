@@ -1,0 +1,1 @@
+This project is for "Information Retrieval" class
